@@ -1,3 +1,6 @@
+Ngô Đức Dũng
+23810310264
+
 # PHP Lab 2: Database Connection & CRUD Basics
 
 Bộ bài tập thực hành PHP cơ bản (Lab 2).
